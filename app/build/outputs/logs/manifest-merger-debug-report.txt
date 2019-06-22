@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/4881383fb499fbf3bd779e27a4e3ce95/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/071d5c793cf46c83741e28f80d4f24dc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8d216c63a922f012f4a044572148d6b2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/cc096fdb56227d2e7f90469a62e5ae63/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/92e8edb2bb88f1cd23033c1c49ea5805/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8129428adeac90bbeae016fd669af711/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/b315276ef5fc1c7edd450406020afe65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/768fa0bbea7cb31d133293264ffc00fa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/909a42b917a9863441c494af6604d436/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/86ba91d84fc7dbbe529a599c72cfb06e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7d4c2d86cb6b8eaa906cc9baa9807386/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/58de9c53deb461e537812e7e5ef1547b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/096468abadc102ae8a7b21b2edd496a3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/7e14e9ec5d11377f6584763da6077032/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/jarvis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/5586366f792908f2eb41fff55ab19de8/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/4881383fb499fbf3bd779e27a4e3ce95/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/4881383fb499fbf3bd779e27a4e3ce95/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/071d5c793cf46c83741e28f80d4f24dc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/071d5c793cf46c83741e28f80d4f24dc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8d216c63a922f012f4a044572148d6b2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8d216c63a922f012f4a044572148d6b2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/cc096fdb56227d2e7f90469a62e5ae63/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/cc096fdb56227d2e7f90469a62e5ae63/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/92e8edb2bb88f1cd23033c1c49ea5805/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/92e8edb2bb88f1cd23033c1c49ea5805/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8129428adeac90bbeae016fd669af711/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8129428adeac90bbeae016fd669af711/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/768fa0bbea7cb31d133293264ffc00fa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/768fa0bbea7cb31d133293264ffc00fa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/909a42b917a9863441c494af6604d436/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/909a42b917a9863441c494af6604d436/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/86ba91d84fc7dbbe529a599c72cfb06e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/86ba91d84fc7dbbe529a599c72cfb06e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7d4c2d86cb6b8eaa906cc9baa9807386/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7d4c2d86cb6b8eaa906cc9baa9807386/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/58de9c53deb461e537812e7e5ef1547b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/58de9c53deb461e537812e7e5ef1547b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/096468abadc102ae8a7b21b2edd496a3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/096468abadc102ae8a7b21b2edd496a3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/7e14e9ec5d11377f6584763da6077032/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/7e14e9ec5d11377f6584763da6077032/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/jarvis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/5586366f792908f2eb41fff55ab19de8/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/jarvis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/5586366f792908f2eb41fff55ab19de8/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/4881383fb499fbf3bd779e27a4e3ce95/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/4881383fb499fbf3bd779e27a4e3ce95/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/071d5c793cf46c83741e28f80d4f24dc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/071d5c793cf46c83741e28f80d4f24dc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8d216c63a922f012f4a044572148d6b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8d216c63a922f012f4a044572148d6b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/cc096fdb56227d2e7f90469a62e5ae63/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/cc096fdb56227d2e7f90469a62e5ae63/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/92e8edb2bb88f1cd23033c1c49ea5805/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/92e8edb2bb88f1cd23033c1c49ea5805/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8129428adeac90bbeae016fd669af711/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8129428adeac90bbeae016fd669af711/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/b315276ef5fc1c7edd450406020afe65/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/b315276ef5fc1c7edd450406020afe65/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/768fa0bbea7cb31d133293264ffc00fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/768fa0bbea7cb31d133293264ffc00fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/909a42b917a9863441c494af6604d436/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/909a42b917a9863441c494af6604d436/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/86ba91d84fc7dbbe529a599c72cfb06e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/86ba91d84fc7dbbe529a599c72cfb06e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7d4c2d86cb6b8eaa906cc9baa9807386/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7d4c2d86cb6b8eaa906cc9baa9807386/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/58de9c53deb461e537812e7e5ef1547b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/58de9c53deb461e537812e7e5ef1547b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/096468abadc102ae8a7b21b2edd496a3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/096468abadc102ae8a7b21b2edd496a3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/7e14e9ec5d11377f6584763da6077032/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/7e14e9ec5d11377f6584763da6077032/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/jarvis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/5586366f792908f2eb41fff55ab19de8/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/jarvis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/5586366f792908f2eb41fff55ab19de8/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/jarvis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/4881383fb499fbf3bd779e27a4e3ce95/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jarvis/Desktop/Plant_Recognition/app/src/main/AndroidManifest.xml

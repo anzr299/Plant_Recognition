@@ -1,0 +1,4 @@
+#Sat Apr 27 10:35:19 GST 2019
+base.0=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/20
+renamed.0=classes.dex
+file.0=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/20/classes.dex

@@ -1,0 +1,19 @@
+#Sat Apr 27 10:35:20 GST 2019
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/32
+base.4=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/33
+base.3=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/34
+base.2=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/35
+base.1=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/30
+base.0=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/31
+file.5=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/32/classes.dex
+file.4=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/33/classes.dex
+file.3=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/34/classes.dex
+file.2=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/35/classes.dex
+file.1=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/30/classes.dex
+file.0=/home/jarvis/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/31/classes.dex
